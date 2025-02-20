@@ -1,6 +1,6 @@
 # Hi everyone!
 
-![Avatar](images/avatar,jpg)
+![Avatar](images/avatar.png)
 
 ## Despre mine
 Ma numesc Bozian Ana-Maria si sunt studenta in anul 2 la Universitatea de Stat din Moldova. Imi place arta, natura si cartile.
