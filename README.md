@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi everyone!
 
-<!--
-**BozianAnaMaria/BozianAnaMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Avatar](images/avatar,jpg)
 
-Here are some ideas to get you started:
+## Despre mine
+Ma numesc Bozian Ana-Maria si sunt studenta in anul 2 la Universitatea de Stat din Moldova. Imi place arta, natura si cartile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Domenii de interes
+- Programare
+- Testare 
+- Animatie 3D
+
+## Limbaje de programare
+
+### Cunoscute
+- HTML/CSS/JavaScript
+- C/C++
+- Python
+- SQL
+- Java
+
+### In proces de invatare 
+- Java cu Spring Framework
+- PHP
+
+### Doresc sa invat
+- Scala
+- Java cu Spring Cloud
+
+## Contact 
+📧 Email: ambozian6@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/ana-maria-bozian
